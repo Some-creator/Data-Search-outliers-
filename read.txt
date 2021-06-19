@@ -1,0 +1,9 @@
+Version 1.2 Goals
+MAJOR UPDATES:
+make a chart to show data (a bar or line chart)
+
+
+
+
+needs to be finished by 3/31/21
+
